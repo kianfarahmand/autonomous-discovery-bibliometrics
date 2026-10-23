@@ -1,0 +1,16 @@
+cluster_name,Batteries & energy,Biomolecules & proteins,Catalysis,Inorganic solids & ceramics,Nanomaterials,No material class named,Organic synthesis & reactions,Polymers & soft matter,Quantum & photonic,Thin films & devices
+AI scientists,0,3,0,0,0,104,0,0,0,0
+AI-for-science overviews,5,9,6,6,11,142,7,6,1,1
+Agentic research systems,0,3,0,3,0,129,0,0,0,1
+Automated chemical synthesis platforms,0,4,4,5,7,12,67,5,0,1
+Bayesian optimization & adaptive design,3,1,12,17,9,50,6,3,0,5
+Closed-loop frameworks & orchestration,3,19,4,7,5,98,9,3,2,1
+Flow reaction optimization,0,1,9,6,27,15,28,6,0,0
+High-throughput experimentation,15,21,6,17,10,28,3,6,5,5
+LLM agents for chemistry,0,17,2,7,2,104,10,2,3,2
+Laboratory automation & robotics,0,50,1,3,2,149,8,4,0,0
+ML & active learning for materials,3,10,14,39,6,40,7,10,6,7
+Robotic chemists & acceleration platforms,0,21,9,16,10,80,8,2,1,1
+Self-driving lab perspectives,0,5,0,1,1,48,1,1,1,1
+Self-driving laboratories,3,2,3,3,4,61,1,2,1,0
+Thin-film & polymer self-driving labs,28,5,2,14,5,8,6,26,5,22

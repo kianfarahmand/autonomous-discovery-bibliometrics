@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Screened corpus, classifications and code for "Implemented versus
+  discussed autonomy: A screened bibliometric analysis of the autonomous
+  scientific discovery literature"
+message: >-
+  If you use these data or code, please cite the archived release on Zenodo.
+type: dataset
+authors:
+  - family-names: Farahmand
+    given-names: Kian
+    affiliation: >-
+      Department of Materials Science and Engineering, Shiraz University,
+      Shiraz, Iran
+    email: k3farahmand@gmail.com
+repository-code: https://github.com/kianfarahmand/autonomous-discovery-bibliometrics
+license: CC-BY-4.0
+keywords:
+  - autonomous experimentation
+  - self-driving laboratories
+  - bibliometrics
+  - OpenAlex
+  - field delineation

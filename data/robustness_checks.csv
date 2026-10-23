@@ -1,0 +1,7 @@
+check,value,interpretation
+"Spearman(share since 2023, median citations)",-0.899 (median -0.892 across 13 clusterings),driven by citation lag; WITHDRAWN as an impact claim
+"  same, within 2023-24 cohort (Mann-Whitney agent vs rest)",p = 0.77 - no difference,agent/framework literature is NOT less cited once age is controlled
+"Spearman(share since 2023, closed-loop rate)",-0.518 (p=0.048; -0.34 to -0.59 across 9 clusterings),"supporting evidence, moderate"
+"Spearman(share since 2023, no-material rate)",+0.739 (p=0.002),primary clustering-based evidence
+cluster ARI across seeds (k=15),0.45-0.51,membership only moderately stable
+cluster ARI vs neighbouring k,0.46-0.64,partition sensitive to k

@@ -1,0 +1,386 @@
+source,target,co_authored_works
+Joint BioEnergy Institute,Lawrence Berkeley National Laboratory,8
+Joint BioEnergy Institute,Sandia National Laboratories,2
+Joint BioEnergy Institute,"University of California, Berkeley",4
+Joint BioEnergy Institute,University of Wisconsin-Madison,2
+Joint BioEnergy Institute,Technical University of Denmark,2
+Georgia Institute of Technology,Nvidia (United States),2
+Georgia Institute of Technology,University of Toronto,2
+Georgia Institute of Technology,Vector Institute,2
+Broad Institute,Harvard University,3
+Broad Institute,Massachusetts Institute of Technology,7
+Broad Institute,University of Cambridge,2
+Broad Institute,Stanford University,2
+Technical University of Denmark,Massachusetts Institute of Technology,2
+Technical University of Denmark,Oak Ridge National Laboratory,3
+Technical University of Denmark,University of Washington,2
+Technical University of Denmark,Helmholtz-Institute Ulm,4
+Technical University of Denmark,Karlsruhe Institute of Technology,3
+Technical University of Denmark,École Polytechnique Fédérale de Lausanne,4
+Technical University of Denmark,Technical University of Munich,3
+Technical University of Denmark,University of Toronto,2
+Technical University of Denmark,Forschungszentrum Jülich,2
+Material Measurement Laboratory,National Institute of Standards and Technology,7
+Material Measurement Laboratory,SLAC National Accelerator Laboratory,2
+Material Measurement Laboratory,"University of Maryland, College Park",7
+Material Measurement Laboratory,University of Toronto,2
+University of Liverpool,Brookhaven National Laboratory,2
+University of Liverpool,National Synchrotron Light Source II,2
+University of Liverpool,Argonne National Laboratory,4
+University of Liverpool,Fordham University,2
+University of Liverpool,University of Chicago,3
+University of Liverpool,University of Tennessee at Knoxville,2
+University of Liverpool,University of Toronto,4
+University of Liverpool,University of Utah,3
+University of Liverpool,University of Washington,2
+University College London,Princeton University,2
+Argonne National Laboratory,Boston University,2
+Argonne National Laboratory,Brookhaven National Laboratory,2
+Argonne National Laboratory,Florida State University,2
+Argonne National Laboratory,Fordham University,3
+Argonne National Laboratory,Lawrence Berkeley National Laboratory,6
+Argonne National Laboratory,Massachusetts Institute of Technology,3
+Argonne National Laboratory,National Institute of Standards and Technology,3
+Argonne National Laboratory,SLAC National Accelerator Laboratory,2
+Argonne National Laboratory,Toyota Research Institute,2
+Argonne National Laboratory,"University at Buffalo, State University of New York",2
+Argonne National Laboratory,University of Chicago,21
+Argonne National Laboratory,Pacific Northwest National Laboratory,3
+Argonne National Laboratory,University of Washington,3
+Argonne National Laboratory,University of Tennessee at Knoxville,3
+Argonne National Laboratory,University of Toronto,3
+Argonne National Laboratory,University of Utah,4
+Argonne National Laboratory,University of Illinois Urbana-Champaign,3
+Argonne National Laboratory,Northwestern University,3
+Argonne National Laboratory,Carnegie Mellon University,2
+Korea University,Korea Institute of Science and Technology,11
+Boston University,Brookhaven National Laboratory,2
+Boston University,Cornell University,2
+Boston University,Fordham University,2
+Boston University,Lawrence Berkeley National Laboratory,2
+Boston University,Massachusetts Institute of Technology,4
+Boston University,National Institute of Standards and Technology,2
+Boston University,Toyota Research Institute,2
+Boston University,"University at Buffalo, State University of New York",4
+Boston University,University of Chicago,4
+Boston University,Google (United States),3
+Boston University,United States Air Force Research Laboratory,2
+Boston University,North Carolina State University,2
+Boston University,University of Washington,4
+Boston University,Stanford University,2
+Boston University,Harvard University,2
+University of Science and Technology of China,Chinese Academy of Sciences,4
+University of Science and Technology of China,University of Birmingham,7
+University of Science and Technology of China,Chinese University of Hong Kong,2
+University of Science and Technology of China,Shanghai Jiao Tong University,3
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",Canadian Institute for Advanced Research,2
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",Harvard University,2
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",University of British Columbia,3
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",University of Toronto,2
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",Vector Institute,2
+Princeton University,Bristol-Myers Squibb (United States),3
+Princeton University,"University of California, Los Angeles",2
+Princeton University,Shanghai Jiao Tong University,3
+Princeton University,Stanford University,4
+Princeton University,University of Oxford,2
+Princeton University,Cornell University,2
+National Institute of Advanced Industrial Science and Technology,Tokyo Institute of Technology,2
+National Institute of Advanced Industrial Science and Technology,Hokkaido University,3
+National Institute of Advanced Industrial Science and Technology,RIKEN Center for Biosystems Dynamics Research,2
+National Institute of Advanced Industrial Science and Technology,The University of Tokyo,4
+National Institute of Advanced Industrial Science and Technology,University of Tsukuba,2
+Chinese University of Hong Kong,Shanghai Jiao Tong University,2
+Chinese University of Hong Kong,Stanford University,3
+Korea Institute of Science and Technology,Seoul National University,2
+University of Chicago,National Institute of Standards and Technology,4
+University of Chicago,Northwestern University,5
+University of Chicago,SLAC National Accelerator Laboratory,2
+University of Chicago,Brookhaven National Laboratory,2
+University of Chicago,Cornell University,2
+University of Chicago,Fordham University,3
+University of Chicago,Lawrence Berkeley National Laboratory,4
+University of Chicago,Massachusetts Institute of Technology,4
+University of Chicago,Toyota Research Institute,2
+University of Chicago,University of Tennessee at Knoxville,2
+University of Chicago,University of Toronto,3
+University of Chicago,University of Utah,3
+University of Chicago,University of Washington,2
+University of Chicago,Stanford University,2
+Center for Functional Nanomaterials,Brookhaven National Laboratory,8
+Center for Functional Nanomaterials,Lawrence Berkeley National Laboratory,6
+Center for Functional Nanomaterials,National Synchrotron Light Source II,6
+Center for Functional Nanomaterials,"University of California, Berkeley",2
+Center for Functional Nanomaterials,"University at Buffalo, State University of New York",2
+Technical University of Munich,Helmholtz-Institute Ulm,6
+Technical University of Munich,École Polytechnique Fédérale de Lausanne,3
+Technical University of Munich,Karlsruhe Institute of Technology,4
+"University of Maryland, College Park",National Institute of Standards and Technology,11
+"University of Maryland, College Park",SLAC National Accelerator Laboratory,3
+"University of Maryland, College Park",Cornell University,2
+"University of Maryland, College Park",Lawrence Berkeley National Laboratory,2
+"University of Maryland, College Park",Center for Nanophase Materials Sciences,2
+"University of Maryland, College Park",Oak Ridge National Laboratory,3
+"University of Maryland, College Park",University of Tennessee at Knoxville,2
+National Institute for Materials Science,The University of Tokyo,8
+National Institute for Materials Science,Hokkaido University,2
+National Institute for Materials Science,University of Tsukuba,3
+National Institute for Materials Science,University of Toronto,3
+Fudan University,Stanford University,2
+Fudan University,University of Oxford,2
+National Institute of Standards and Technology,SLAC National Accelerator Laboratory,5
+National Institute of Standards and Technology,University of Washington,2
+National Institute of Standards and Technology,Brookhaven National Laboratory,2
+National Institute of Standards and Technology,Cornell University,2
+National Institute of Standards and Technology,Lawrence Berkeley National Laboratory,3
+National Institute of Standards and Technology,Massachusetts Institute of Technology,3
+National Institute of Standards and Technology,Toyota Research Institute,2
+National Institute of Standards and Technology,University of Toronto,2
+Lawrence Berkeley National Laboratory,Massachusetts Institute of Technology,4
+Lawrence Berkeley National Laboratory,SLAC National Accelerator Laboratory,3
+Lawrence Berkeley National Laboratory,Stanford University,3
+Lawrence Berkeley National Laboratory,Toyota Research Institute,5
+Lawrence Berkeley National Laboratory,"University of California, Berkeley",26
+Lawrence Berkeley National Laboratory,Friedrich-Alexander-Universität Erlangen-Nürnberg,4
+Lawrence Berkeley National Laboratory,U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,2
+Lawrence Berkeley National Laboratory,Wright-Patterson Air Force Base,2
+Lawrence Berkeley National Laboratory,Brookhaven National Laboratory,8
+Lawrence Berkeley National Laboratory,California Institute of Technology,2
+Lawrence Berkeley National Laboratory,Florida State University,2
+Lawrence Berkeley National Laboratory,Fordham University,4
+Lawrence Berkeley National Laboratory,"University at Buffalo, State University of New York",2
+Lawrence Berkeley National Laboratory,National Laboratory of the Rockies,2
+Lawrence Berkeley National Laboratory,Molecular Foundry,13
+Lawrence Berkeley National Laboratory,Sandia National Laboratories,2
+Lawrence Berkeley National Laboratory,University of Washington,5
+Lawrence Berkeley National Laboratory,National Synchrotron Light Source II,7
+Lawrence Berkeley National Laboratory,Helmholtz Institute Erlangen-Nürnberg,2
+Lawrence Berkeley National Laboratory,University of Wisconsin-Madison,2
+Lawrence Berkeley National Laboratory,Karlsruhe Institute of Technology,3
+Lawrence Berkeley National Laboratory,Centre National de la Recherche Scientifique,2
+Lawrence Berkeley National Laboratory,Forschungszentrum Jülich,2
+Lawrence Berkeley National Laboratory,Hong Kong University of Science and Technology,2
+Lawrence Berkeley National Laboratory,University of Southern California,2
+Lawrence Berkeley National Laboratory,Sungkyunkwan University,2
+Lawrence Berkeley National Laboratory,École Polytechnique Fédérale de Lausanne,2
+Lawrence Berkeley National Laboratory,University of Tennessee at Knoxville,2
+Lawrence Berkeley National Laboratory,University of Cambridge,2
+Nanyang Technological University,"Agency for Science, Technology and Research",7
+Nanyang Technological University,Institute of Materials Research and Engineering,8
+Nanyang Technological University,National University of Singapore,6
+Nanyang Technological University,The Alan Turing Institute,4
+Nanyang Technological University,The Cambridge Centre for Advanced Research and Education in Singapore,4
+Nanyang Technological University,University of Cambridge,4
+Nanyang Technological University,University of Toronto,6
+Nanyang Technological University,Vector Institute,6
+Nanyang Technological University,Canadian Institute for Advanced Research,4
+Nanyang Technological University,Nvidia (United States),2
+University of Utah,University of Toronto,3
+University of Utah,Fordham University,2
+University of Utah,University of Tennessee at Knoxville,2
+University of Utah,University of Washington,2
+North Carolina State University,ETH Zurich,2
+North Carolina State University,University of Toronto,5
+North Carolina State University,Vector Institute,4
+North Carolina State University,"University at Buffalo, State University of New York",10
+North Carolina State University,Massachusetts Institute of Technology,2
+North Carolina State University,Canadian Institute for Advanced Research,3
+North Carolina State University,Carnegie Mellon University,3
+North Carolina State University,Oak Ridge National Laboratory,3
+North Carolina State University,University of Tennessee at Knoxville,3
+North Carolina State University,University of Washington,2
+North Carolina State University,Iowa State University,2
+North Carolina State University,Brookhaven National Laboratory,2
+North Carolina State University,National Synchrotron Light Source II,2
+Tokyo Institute of Technology,Center for Nanophase Materials Sciences,6
+Tokyo Institute of Technology,Oak Ridge National Laboratory,6
+Tokyo Institute of Technology,The University of Tokyo,2
+Tokyo Institute of Technology,Pacific Northwest National Laboratory,2
+Tokyo Institute of Technology,University of Tennessee at Knoxville,5
+Seoul National University,École Polytechnique Fédérale de Lausanne,2
+Nvidia (United States),University of Toronto,6
+Nvidia (United States),Vector Institute,6
+Nvidia (United States),Canadian Institute for Advanced Research,5
+Shanghai University,Hong Kong University of Science and Technology,2
+Shanghai University,The University of Sydney,2
+University of Oxford,Vector Institute,2
+University of Oxford,Massachusetts Institute of Technology,2
+University of Oxford,Stanford University,4
+University of Oxford,Shanghai Jiao Tong University,2
+École Polytechnique Fédérale de Lausanne,University of Toronto,2
+École Polytechnique Fédérale de Lausanne,Vector Institute,2
+École Polytechnique Fédérale de Lausanne,Helmholtz-Institute Ulm,4
+École Polytechnique Fédérale de Lausanne,Karlsruhe Institute of Technology,2
+École Polytechnique Fédérale de Lausanne,ETH Zurich,2
+California Institute of Technology,Cornell University,3
+California Institute of Technology,Toyota Research Institute,4
+Oak Ridge National Laboratory,Center for Nanophase Materials Sciences,22
+Oak Ridge National Laboratory,University of Tennessee at Knoxville,22
+Oak Ridge National Laboratory,Pacific Northwest National Laboratory,6
+Oak Ridge National Laboratory,Carnegie Mellon University,2
+University of California San Diego,Massachusetts Institute of Technology,3
+University of California San Diego,Northwestern University,2
+University of California San Diego,Stanford University,2
+Iowa State University,Texas A&M University,2
+Johns Hopkins University,Carnegie Mellon University,2
+Johns Hopkins University,Pacific Northwest National Laboratory,2
+Johns Hopkins University,University of Tennessee at Knoxville,2
+Helmholtz Institute Erlangen-Nürnberg,Forschungszentrum Jülich,13
+Helmholtz Institute Erlangen-Nürnberg,Friedrich-Alexander-Universität Erlangen-Nürnberg,15
+Helmholtz Institute Erlangen-Nürnberg,University of Toronto,6
+Helmholtz Institute Erlangen-Nürnberg,Vector Institute,5
+Helmholtz Institute Erlangen-Nürnberg,Canadian Institute for Advanced Research,3
+Helmholtz Institute Erlangen-Nürnberg,Harvard University,2
+Helmholtz Institute Erlangen-Nürnberg,Karlsruhe Institute of Technology,3
+Helmholtz Institute Erlangen-Nürnberg,Massachusetts Institute of Technology,2
+Helmholtz Institute Erlangen-Nürnberg,Molecular Foundry,2
+Helmholtz Institute Erlangen-Nürnberg,Centre National de la Recherche Scientifique,2
+Helmholtz Institute Erlangen-Nürnberg,Hong Kong University of Science and Technology,2
+Helmholtz Institute Erlangen-Nürnberg,University of Cambridge,2
+Tsinghua University,Harbin Institute of Technology,3
+Tsinghua University,Chinese Academy of Sciences,2
+Brookhaven National Laboratory,Toyota Research Institute,2
+Brookhaven National Laboratory,"University at Buffalo, State University of New York",4
+Brookhaven National Laboratory,National Synchrotron Light Source II,12
+Brookhaven National Laboratory,"University of California, Berkeley",2
+Canadian Institute for Advanced Research,Harvard University,13
+Canadian Institute for Advanced Research,University of British Columbia,12
+Canadian Institute for Advanced Research,University of Toronto,35
+Canadian Institute for Advanced Research,Vector Institute,35
+Canadian Institute for Advanced Research,Forschungszentrum Jülich,2
+Canadian Institute for Advanced Research,Friedrich-Alexander-Universität Erlangen-Nürnberg,3
+Canadian Institute for Advanced Research,Carl R. Woese Institute for Genomic Biology,3
+Canadian Institute for Advanced Research,University of Illinois Urbana-Champaign,3
+Canadian Institute for Advanced Research,Google (United States),2
+Molecular Foundry,"University of California, Berkeley",5
+Molecular Foundry,Fordham University,3
+Molecular Foundry,Friedrich-Alexander-Universität Erlangen-Nürnberg,3
+Molecular Foundry,University of Washington,2
+Molecular Foundry,Forschungszentrum Jülich,2
+Molecular Foundry,Hong Kong University of Science and Technology,2
+Northwestern University,Carnegie Mellon University,3
+Northwestern University,Massachusetts Institute of Technology,2
+Northwestern University,University of Toronto,2
+Northwestern University,Stanford University,2
+Karlsruhe Institute of Technology,Forschungszentrum Jülich,6
+Karlsruhe Institute of Technology,Helmholtz-Institute Ulm,8
+Karlsruhe Institute of Technology,Centre National de la Recherche Scientifique,3
+Uppsala University,University of Cambridge,2
+University of Tsukuba,RIKEN Center for Biosystems Dynamics Research,6
+University of Chinese Academy of Sciences,Chinese Academy of Sciences,9
+Centre National de la Recherche Scientifique,Forschungszentrum Jülich,4
+University of Southern California,"University of California, Berkeley",2
+Friedrich Schiller University Jena,Indian Institute of Technology Delhi,3
+University of British Columbia,Harvard University,5
+University of British Columbia,University of Toronto,13
+University of British Columbia,Vector Institute,8
+University of British Columbia,University of Glasgow,3
+University of British Columbia,University of Illinois Urbana-Champaign,3
+University of British Columbia,The University of Tokyo,2
+University of British Columbia,University of Washington,2
+United States Air Force Research Laboratory,Massachusetts Institute of Technology,2
+United States Air Force Research Laboratory,Wright-Patterson Air Force Base,8
+United States Air Force Research Laboratory,U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,10
+United States Air Force Research Laboratory,Fordham University,2
+United States Air Force Research Laboratory,Pacific Northwest National Laboratory,2
+United States Air Force Research Laboratory,University of Tennessee at Knoxville,2
+United States Air Force Research Laboratory,University of Toronto,2
+United States Air Force Research Laboratory,University of Washington,3
+United States Air Force Research Laboratory,Carnegie Mellon University,2
+Shanghai Jiao Tong University,Stanford University,4
+"University of California, Los Angeles",University of Washington,2
+"University of California, Los Angeles",Stanford University,2
+National Synchrotron Light Source II,"University of California, Berkeley",2
+"University at Buffalo, State University of New York",Massachusetts Institute of Technology,2
+"University at Buffalo, State University of New York",Google (United States),3
+Google (United States),University of Toronto,3
+Google (United States),Vector Institute,3
+Google (United States),"University of California, Berkeley",2
+Google (United States),Stanford University,2
+RIKEN Center for Biosystems Dynamics Research,The University of Osaka,3
+RIKEN Center for Biosystems Dynamics Research,The University of Tokyo,2
+Stanford University,Massachusetts Institute of Technology,3
+Stanford University,Toyota Research Institute,2
+Stanford University,University of Washington,2
+Stanford University,"Agency for Science, Technology and Research",2
+Stanford University,Cornell University,2
+Stanford University,Harvard University,2
+Stanford University,"University of California, Berkeley",3
+"Agency for Science, Technology and Research",Institute of Materials Research and Engineering,9
+"Agency for Science, Technology and Research",Massachusetts Institute of Technology,4
+"Agency for Science, Technology and Research",National University of Singapore,7
+Florida State University,Sandia National Laboratories,2
+Vector Institute,Harvard University,12
+Vector Institute,University of Toronto,58
+Vector Institute,Forschungszentrum Jülich,4
+Vector Institute,Friedrich-Alexander-Universität Erlangen-Nürnberg,5
+Vector Institute,Carl R. Woese Institute for Genomic Biology,3
+Vector Institute,University of Illinois Urbana-Champaign,3
+Hong Kong University of Science and Technology,Forschungszentrum Jülich,3
+Hong Kong University of Science and Technology,Friedrich-Alexander-Universität Erlangen-Nürnberg,2
+Hong Kong University of Science and Technology,University of Cambridge,2
+RWTH Aachen University,University of Cambridge,3
+RWTH Aachen University,Forschungszentrum Jülich,5
+RWTH Aachen University,The Cambridge Centre for Advanced Research and Education in Singapore,2
+Carl R. Woese Institute for Genomic Biology,University of Illinois Urbana-Champaign,8
+Carl R. Woese Institute for Genomic Biology,University of Toronto,3
+SLAC National Accelerator Laboratory,Massachusetts Institute of Technology,2
+SLAC National Accelerator Laboratory,Toyota Research Institute,3
+"University of California, Berkeley",Friedrich-Alexander-Universität Erlangen-Nürnberg,2
+"University of California, Berkeley",Harvard University,2
+"University of California, Berkeley",Toyota Research Institute,2
+"University of California, Berkeley",Pacific Northwest National Laboratory,2
+"University of California, Berkeley",University of Washington,3
+"University of California, Berkeley",Massachusetts Institute of Technology,2
+The University of Tokyo,University of Toronto,2
+The University of Tokyo,Hokkaido University,4
+National University of Singapore,Institute of Materials Research and Engineering,5
+National University of Singapore,Massachusetts Institute of Technology,6
+Toyota Research Institute,Massachusetts Institute of Technology,2
+Toyota Research Institute,University of Washington,2
+University of Tennessee at Knoxville,Center for Nanophase Materials Sciences,14
+University of Tennessee at Knoxville,Pacific Northwest National Laboratory,14
+University of Tennessee at Knoxville,Fordham University,3
+University of Tennessee at Knoxville,U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,2
+University of Tennessee at Knoxville,University of Toronto,2
+University of Tennessee at Knoxville,University of Washington,4
+University of Tennessee at Knoxville,Carnegie Mellon University,2
+University of Tennessee at Knoxville,Massachusetts Institute of Technology,2
+University of Tennessee at Knoxville,Pennsylvania State University,3
+University of Washington,Pacific Northwest National Laboratory,2
+University of Washington,Fordham University,2
+University of Washington,U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,3
+University of Washington,University of Toronto,3
+University of Washington,Carnegie Mellon University,3
+University of Washington,Massachusetts Institute of Technology,4
+University of Washington,Friedrich-Alexander-Universität Erlangen-Nürnberg,2
+University of Washington,University of Cambridge,4
+The Cambridge Centre for Advanced Research and Education in Singapore,The Alan Turing Institute,4
+The Cambridge Centre for Advanced Research and Education in Singapore,University of Cambridge,8
+Cornell University,Massachusetts Institute of Technology,3
+Wright-Patterson Air Force Base,U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,10
+Forschungszentrum Jülich,Friedrich-Alexander-Universität Erlangen-Nürnberg,12
+Forschungszentrum Jülich,University of Toronto,4
+Forschungszentrum Jülich,Harvard University,2
+Forschungszentrum Jülich,University of Cambridge,2
+Fordham University,Massachusetts Institute of Technology,2
+Fordham University,U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,2
+Fordham University,University of Toronto,3
+U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,Pacific Northwest National Laboratory,2
+U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,University of Toronto,2
+U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,Carnegie Mellon University,2
+The Alan Turing Institute,University of Cambridge,7
+Center for Nanophase Materials Sciences,Pacific Northwest National Laboratory,3
+Pacific Northwest National Laboratory,National Laboratory of the Rockies,2
+Pacific Northwest National Laboratory,University of Toronto,2
+Pacific Northwest National Laboratory,Pennsylvania State University,2
+Harvard University,University of Toronto,12
+Harvard University,Friedrich-Alexander-Universität Erlangen-Nürnberg,3
+Harvard University,Massachusetts Institute of Technology,7
+Institute of Materials Research and Engineering,Massachusetts Institute of Technology,2
+Friedrich-Alexander-Universität Erlangen-Nürnberg,University of Toronto,6
+Friedrich-Alexander-Universität Erlangen-Nürnberg,Massachusetts Institute of Technology,2
+Friedrich-Alexander-Universität Erlangen-Nürnberg,University of Cambridge,2
+University of Illinois Urbana-Champaign,University of Toronto,6
+University of Cambridge,Massachusetts Institute of Technology,2
+Carnegie Mellon University,Massachusetts Institute of Technology,2
+Massachusetts Institute of Technology,University of Toronto,3

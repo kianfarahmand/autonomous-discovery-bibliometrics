@@ -1,0 +1,15 @@
+subfield,domain,observed,expected_if_independent,deficit_ratio,verdict,rationale
+Thin-film & polymer self-driving labs,Catalysis,4,21.5,0.19,definitional,That cluster is film and polymer processing hardware; catalysis is served by the Bayesian-optimisation and flow-chemistry clusters (21 and 15 works).
+Thin-film & polymer self-driving labs,Biomolecules & proteins,2,17.2,0.12,definitional,Film-processing hardware has no biological application path.
+Thin-film & polymer self-driving labs,Organic synthesis & reactions,1,9.5,0.11,definitional,Solid and film processing is not solution-phase synthesis.
+Automated chemical synthesis platforms,Batteries & energy,1,7.7,0.13,definitional,Molecular synthesis platforms are not battery fabrication; energy materials are served by the SDL cluster.
+ML & active learning for materials,Organic synthesis & reactions,1,7.3,0.14,partition artifact,Organic chemistry is served by two dedicated clusters (23 and 12 works); the apparent hole is where the clustering cut.
+Laboratory automation & robotics,Batteries & energy,0,5.1,0.0,GENUINE,"Laboratory robotics is biologically concentrated (26 biomolecule works) and has zero battery or energy work, even though batteries are the single best-served domain for autonomous platforms (41 works in the thin-film/polymer SDL cluster)."
+Automated chemical synthesis platforms,Thin films & devices,0,4.9,0.0,definitional,Same boundary in the other direction.
+Robotic chemists & acceleration platforms,Batteries & energy,0,4.6,0.0,GENUINE,"The mobile robotic-chemist and acceleration-platform lineage has no battery work at all, despite batteries being the densest application domain for closed-loop platforms."
+Bayesian optimization & adaptive design,Organic synthesis & reactions,0,4.4,0.0,partition artifact,Bayesian reaction optimisation is well developed but partitions into the flow-chemistry cluster.
+High-throughput experimentation,Quantum & photonic,1,3.8,0.26,GENUINE,"Quantum and photonic materials are the sparsest domain in the corpus (42 of 1,923 works) and high-throughput screening, the obvious first approach, barely touches them."
+Laboratory automation & robotics,Thin films & devices,0,3.3,0.0,GENUINE,Same pattern: no robotics-tradition automation addresses device-grade thin films.
+Laboratory automation & robotics,Organic synthesis & reactions,1,3.3,0.31,partition artifact,Served by the automated-synthesis cluster.
+(corpus-wide),(no material domain named),1279,,,GENUINE,1279 of 1923 works (66.5%) name no specific material class. Growth is methodological and agentic rather than material-specific.
+(corpus-wide),Biomolecules / Organic synthesis,76,,,GENUINE,Lowest closed-loop shares in the corpus (0.368 and 0.435) against 0.696 for thin films. Automation without loop closure is the modal state where the assay is slow or destructive.

@@ -1,0 +1,103 @@
+{
+  "field": "Autonomous scientific discovery / self-driving laboratories",
+  "source": "OpenAlex works, title_and_abstract.search (quoted phrase; stem-based and proximity-tolerant)",
+  "design_note": "Phrases are assigned to exactly one subfield so no phrase is counted twice; overlapping concept blocks inflate apparent cross-program convergence. Two tiers: Tier A is high-precision and auto-included; Tier B is recall-oriented, high-noise, and must pass a relevance screen before entering the corpus.",
+  "phrase_semantics_finding": "Quotes are honoured as phrase search (reversed word order drops 'self-driving laboratory' from 770 to 5 hits) but matching is stemmed and tolerates intervening tokens, so short common-word phrases such as 'autonomous synthesis' (20,962 hits) are unusable.",
+  "tier_A_auto_include": {
+    "SF1_self_driving_labs": [
+      "self-driving laboratory",
+      "self-driving labs",
+      "materials acceleration platform",
+      "self-driven fluidic"
+    ],
+    "SF2_autonomous_experimentation": [
+      "autonomous experimentation",
+      "autonomous laboratory",
+      "autonomous materials discovery",
+      "autonomous molecular discovery"
+    ],
+    "SF3_closed_loop": [
+      "closed-loop experimentation",
+      "closed-loop discovery",
+      "closed-loop synthesis"
+    ],
+    "SF4_robotic_synthesis": [
+      "robotic chemist",
+      "robotic synthesis platform",
+      "automated synthesis platform",
+      "chemical programming language",
+      "synthesis robot",
+      "artificial chemist"
+    ],
+    "SF5_ai_agents": [
+      "autonomous chemical research",
+      "chemistry agent"
+    ],
+    "SF6_adaptive_design": [
+      "Bayesian reaction optimization"
+    ]
+  },
+  "tier_B_screen_required": [
+    "autonomous discovery",
+    "autonomous experimental",
+    "laboratory automation",
+    "autonomous research",
+    "autonomous platform",
+    "AI scientist"
+  ],
+  "tier_B_rejected_outright": {
+    "autonomous synthesis": "20,962 hits; ambiguous across robotics/control",
+    "molecular discovery": "1,230 hits; no autonomy signal",
+    "autonomous optimization": "971 hits; mostly control theory"
+  },
+  "phrase_counts": {
+    "self-driving laboratory": 770,
+    "self-driving labs": 362,
+    "materials acceleration platform": 119,
+    "autonomous experimentation": 461,
+    "autonomous experimental": 185,
+    "autonomous discovery": 763,
+    "closed-loop experimentation": 114,
+    "closed-loop discovery": 118,
+    "closed-loop synthesis": 54,
+    "closed-loop optimization of reaction": 2,
+    "robotic chemist": 107,
+    "robotic synthesis platform": 17,
+    "automated synthesis platform": 75,
+    "chemical programming language": 24,
+    "autonomous chemical research": 6,
+    "AI scientist": 661,
+    "agentic workflow for chemistry": 3,
+    "large language model agent for chemistry": 0,
+    "active learning for materials discovery": 4,
+    "sequential learning for materials": 1,
+    "Bayesian reaction optimization": 7,
+    "Bayesian optimization for materials discovery": 6,
+    "autonomous materials discovery": 128,
+    "autonomous synthesis of": 20962,
+    "autonomous laboratory for": 423
+  },
+  "recall_validation": {
+    "method": "11 independently known landmark platforms/papers, DOI-resolved via OpenAlex, tested against the phrase set API-side",
+    "tier_A_recall": "11/11",
+    "landmarks": {
+      "10.1038/s41586-023-06734-w": "A-Lab (Szymanski 2023)",
+      "10.1038/s41586-020-2442-2": "Mobile robotic chemist (Burger 2020)",
+      "10.1038/s41586-023-06792-0": "Coscientist (Boiko 2023)",
+      "10.1126/science.aav2211": "Chemputer (Steiner 2019)",
+      "10.1126/sciadv.aaz8867": "Ada self-driving lab (MacLeod 2020)",
+      "10.1038/s41586-021-03213-y": "Bayesian reaction opt (Shields 2021)",
+      "10.1038/s42256-024-00832-8": "ChemCrow (Bran 2024)",
+      "10.1016/j.matt.2021.06.036": "Autonomous experimentation (Stach 2021)",
+      "10.1002/adma.202001626": "Artificial chemist (Epps 2020)",
+      "10.1038/s41586-018-0307-8": "Organic synthesis robot + ML (Granda 2018)",
+      "10.1126/science.adi1407": "Delocalized self-driving lab network (2023)"
+    },
+    "corrections_made": [
+      "10.1038/nature25978 was mislabelled as Granda's synthesis robot; it is Segler's retrosynthesis-planning paper. Removed (no closed loop).",
+      "Granda 2018 corrected to 10.1038/s41586-018-0307-8.",
+      "10.1038/s41557-023-01214-0 did not resolve to a chemistry-agent paper and was dropped."
+    ]
+  },
+  "planned_expansion": "Citation snowballing in step 2: works citing or cited by the most central Tier-A works, to catch idiosyncratic phrasing that no phrase set reaches."
+}

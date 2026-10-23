@@ -1,0 +1,11 @@
+dom_llm,Prediction / review only,Algorithmic selection only,Automated execution,Closed loop,domain_total,closed_loop_share
+Batteries & energy,14,10,7,29,60,0.483
+Biomolecules & proteins,38,22,75,36,171,0.211
+Catalysis,14,21,9,28,72,0.389
+Inorganic solids & ceramics,17,45,25,57,144,0.396
+Nanomaterials,14,18,16,51,99,0.515
+No material class named,825,69,141,33,1068,0.031
+Organic synthesis & reactions,21,19,60,61,161,0.379
+Polymers & soft matter,12,14,23,27,76,0.355
+Quantum & photonic,1,7,2,15,25,0.6
+Thin films & devices,2,9,10,26,47,0.553

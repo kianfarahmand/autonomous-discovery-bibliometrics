@@ -1,0 +1,118 @@
+institution,n_works,degree,betweenness,dominant_family
+University of Toronto,90,33,0.1695,Platforms & self-driving labs
+Lawrence Berkeley National Laboratory,61,36,0.1917,Adaptive experimental design
+Vector Institute,59,17,0.0394,Platforms & self-driving labs
+Massachusetts Institute of Technology,58,30,0.0989,Automated synthesis & reaction optimization
+North Carolina State University,53,14,0.0495,Platforms & self-driving labs
+Canadian Institute for Advanced Research,43,14,0.0093,Platforms & self-driving labs
+Oak Ridge National Laboratory,42,8,0.0055,Adaptive experimental design
+University of Tennessee at Knoxville,41,20,0.0474,Adaptive experimental design
+"University of California, Berkeley",39,15,0.0206,Automated synthesis & reaction optimization
+University of Glasgow,37,1,0.0,Automated synthesis & reaction optimization
+Argonne National Laboratory,37,20,0.0189,Platforms & self-driving labs
+University of Cambridge,34,13,0.046,Overviews & closed-loop frameworks
+University of British Columbia,33,9,0.022,Platforms & self-driving labs
+University of Science and Technology of China,30,4,0.0748,AI agents & AI scientists
+University of Washington,30,25,0.0631,Platforms & self-driving labs
+University of Chicago,28,17,0.0147,Platforms & self-driving labs
+University of Liverpool,28,9,0.0022,Platforms & self-driving labs
+University of Illinois Urbana-Champaign,28,6,0.0009,Automated synthesis & reaction optimization
+Chinese Academy of Sciences,27,3,0.0457,Overviews & closed-loop frameworks
+Technical University of Denmark,27,10,0.0235,Platforms & self-driving labs
+Karlsruhe Institute of Technology,26,8,0.0067,Platforms & self-driving labs
+Pacific Northwest National Laboratory,26,13,0.0205,Adaptive experimental design
+Nanyang Technological University,25,10,0.0193,Platforms & self-driving labs
+Harvard University,25,13,0.0162,Platforms & self-driving labs
+Carnegie Mellon University,25,10,0.0053,AI agents & AI scientists
+The University of Tokyo,24,7,0.0464,AI agents & AI scientists
+Forschungszentrum Jülich,24,14,0.0212,Automated synthesis & reaction optimization
+Tsinghua University,23,2,0.0154,AI agents & AI scientists
+Stanford University,23,20,0.1418,AI agents & AI scientists
+Center for Nanophase Materials Sciences,22,5,0.0005,Adaptive experimental design
+National University of Singapore,22,4,0.0001,AI agents & AI scientists
+"University at Buffalo, State University of New York",22,8,0.0025,Automated synthesis & reaction optimization
+Boston University,22,16,0.0103,Platforms & self-driving labs
+École Polytechnique Fédérale de Lausanne,21,9,0.0623,Platforms & self-driving labs
+Zhejiang University,21,0,0.0,AI agents & AI scientists
+National Institute of Standards and Technology,21,13,0.0079,Platforms & self-driving labs
+Friedrich-Alexander-Universität Erlangen-Nürnberg,20,13,0.0095,Platforms & self-driving labs
+"University of Maryland, College Park",19,8,0.0076,Adaptive experimental design
+Brookhaven National Laboratory,18,12,0.0036,Platforms & self-driving labs
+Helmholtz Institute Erlangen-Nürnberg,17,13,0.0127,Platforms & self-driving labs
+University of Oxford,17,6,0.0264,AI agents & AI scientists
+National Institute for Materials Science,16,4,0.0199,Adaptive experimental design
+Princeton University,16,7,0.0324,AI agents & AI scientists
+United States Air Force Research Laboratory,15,10,0.0037,Platforms & self-driving labs
+University College London,14,1,0.0,Platforms & self-driving labs
+U.S. Air Force Research Laboratory Materials and Manufacturing Directorate,14,9,0.0037,Platforms & self-driving labs
+"Agency for Science, Technology and Research",13,5,0.0037,Automated synthesis & reaction optimization
+Molecular Foundry,13,8,0.0014,Automated synthesis & reaction optimization
+Shanghai Jiao Tong University,13,5,0.0527,AI agents & AI scientists
+University of Chinese Academy of Sciences,12,1,0.0,AI agents & AI scientists
+Northwestern University,12,7,0.0048,Platforms & self-driving labs
+University of Utah,12,7,0.0,Platforms & self-driving labs
+Korea University,12,1,0.0,Overviews & closed-loop frameworks
+California Institute of Technology,12,3,0.0004,Adaptive experimental design
+Cornell University,12,8,0.0111,Overviews & closed-loop frameworks
+National Synchrotron Light Source II,12,6,0.0016,Adaptive experimental design
+Google (United States),12,7,0.0052,AI agents & AI scientists
+ETH Zurich,12,2,0.0008,Overviews & closed-loop frameworks
+Wright-Patterson Air Force Base,12,3,0.0002,Platforms & self-driving labs
+Korea Institute of Science and Technology,12,2,0.0154,Platforms & self-driving labs
+Centre National de la Recherche Scientifique,11,4,0.0,Platforms & self-driving labs
+Hong Kong University of Science and Technology,11,7,0.0307,AI agents & AI scientists
+The University of Osaka,11,1,0.0,Automation & lab robotics
+Texas A&M University,11,1,0.0,Adaptive experimental design
+Institute of Materials Research and Engineering,11,4,0.0001,Platforms & self-driving labs
+Toyota Research Institute,11,12,0.0044,Adaptive experimental design
+Florida State University,11,3,0.0004,Platforms & self-driving labs
+Sungkyunkwan University,11,1,0.0,Automation & lab robotics
+Helmholtz-Institute Ulm,10,4,0.0,Platforms & self-driving labs
+Chinese University of Hong Kong,10,3,0.0349,Overviews & closed-loop frameworks
+Imperial College London,10,0,0.0,Platforms & self-driving labs
+Tokyo Institute of Technology,10,6,0.0114,Adaptive experimental design
+University of Tsukuba,10,3,0.0002,Automation & lab robotics
+Uppsala University,10,1,0.0,Platforms & self-driving labs
+Technical University of Munich,10,4,0.0,Platforms & self-driving labs
+University of Birmingham,10,1,0.0,AI agents & AI scientists
+Fordham University,10,13,0.0035,Platforms & self-driving labs
+RIKEN Center for Biosystems Dynamics Research,10,4,0.0156,Automation & lab robotics
+RWTH Aachen University,10,3,0.0003,Automated synthesis & reaction optimization
+Federal Institute For Materials Research and Testing,10,0,0.0,Platforms & self-driving labs
+Georgia Institute of Technology,9,3,0.0,Overviews & closed-loop frameworks
+Material Measurement Laboratory,9,4,0.001,Adaptive experimental design
+Nvidia (United States),9,5,0.0003,AI agents & AI scientists
+University of Michigan,9,0,0.0,Platforms & self-driving labs
+Iowa State University,9,2,0.0154,Platforms & self-driving labs
+National Laboratory of the Rockies,9,2,0.0002,Automated synthesis & reaction optimization
+"Merck & Co., Inc., Rahway, NJ, USA (United States)",9,5,0.0,Automated synthesis & reaction optimization
+Joint BioEnergy Institute,9,5,0.0015,Platforms & self-driving labs
+The Alan Turing Institute,9,3,0.0,AI agents & AI scientists
+Tohoku University,9,0,0.0,Overviews & closed-loop frameworks
+Bristol-Myers Squibb (United States),9,1,0.0,Automated synthesis & reaction optimization
+SLAC National Accelerator Laboratory,9,8,0.0019,Adaptive experimental design
+Seoul National University,9,2,0.0306,Overviews & closed-loop frameworks
+Shanghai University,9,2,0.0154,Adaptive experimental design
+Sandia National Laboratories,9,3,0.0001,Platforms & self-driving labs
+Fudan University,8,2,0.0,AI agents & AI scientists
+Johns Hopkins University,8,3,0.0,AI agents & AI scientists
+National Institute of Advanced Industrial Science and Technology,8,5,0.0031,Adaptive experimental design
+Broad Institute,8,4,0.0018,AI agents & AI scientists
+Center for Functional Nanomaterials,8,5,0.0001,Adaptive experimental design
+University of California San Diego,8,3,0.0,Overviews & closed-loop frameworks
+University of Southampton,8,0,0.0,Platforms & self-driving labs
+Indian Institute of Technology Delhi,8,1,0.0,AI agents & AI scientists
+Xi'an Jiaotong University,8,0,0.0,Adaptive experimental design
+Friedrich Schiller University Jena,8,1,0.0,AI agents & AI scientists
+University of Leeds,8,0,0.0,Automated synthesis & reaction optimization
+The University of Sydney,8,1,0.0,AI agents & AI scientists
+"University of California, Los Angeles",8,3,0.0027,Automated synthesis & reaction optimization
+University of Wisconsin-Madison,8,2,0.0,Automated synthesis & reaction optimization
+University of Southern California,8,2,0.0,AI agents & AI scientists
+Carl R. Woese Institute for Genomic Biology,8,4,0.0,Platforms & self-driving labs
+Hokkaido University,8,3,0.0,Adaptive experimental design
+Peking University,8,0,0.0,AI agents & AI scientists
+The Cambridge Centre for Advanced Research and Education in Singapore,8,4,0.0003,Overviews & closed-loop frameworks
+Xiamen University,8,0,0.0,AI agents & AI scientists
+Harbin Institute of Technology,8,1,0.0,Overviews & closed-loop frameworks
+Pennsylvania State University,8,2,0.0,Platforms & self-driving labs
