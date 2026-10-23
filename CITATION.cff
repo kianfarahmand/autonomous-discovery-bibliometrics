@@ -13,6 +13,12 @@ authors:
       Department of Materials Science and Engineering, Shiraz University,
       Shiraz, Iran
     email: k3farahmand@gmail.com
+    orcid: https://orcid.org/0000-0001-9129-6043
+doi: 10.5281/zenodo.23603731
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23603731
+    description: Zenodo archive of release v1.0.0
 repository-code: https://github.com/kianfarahmand/autonomous-discovery-bibliometrics
 license: CC-BY-4.0
 keywords:

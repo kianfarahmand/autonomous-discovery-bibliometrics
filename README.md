@@ -72,4 +72,4 @@ Long dashes in source titles and text fields have been normalized to hyphens. Ab
 
 ## Citation
 
-Farahmand, K. (2026). Screened corpus, classifications and code for "Implemented versus discussed autonomy" [Data set and software]. Zenodo. [DOI to be assigned]
+Farahmand, K. (2026). Screened corpus, classifications and code for "Implemented versus discussed autonomy" [Data set and software]. Zenodo. https://doi.org/10.5281/zenodo.23603731
