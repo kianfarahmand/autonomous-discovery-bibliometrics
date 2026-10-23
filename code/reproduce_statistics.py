@@ -44,8 +44,10 @@ ro=(r=='Closed loop')&~cl; print(ro.sum(), s[ro].value_counts())
 print('regex precision', round(((r=='Closed loop')&cl).sum()/(r=='Closed loop').sum(),3),'recall',round(((r=='Closed loop')&cl).sum()/cl.sum(),3))
 # 2023-24 cohort citations
 c=d[d.year.isin([2023,2024])].merge(pd.read_csv('subfield_clusters.csv')[['id','family','cluster_name']],on='id',suffixes=('','_c'))
-ag=c.family_c.isin(['AI agents & AI scientists','Overviews & closed-loop frameworks'])
-print(c.cites[ag].median(), c.cites[~ag].median(), stats.mannwhitneyu(c.cites[ag],c.cites[~ag]))
+agent=['LLM agents for chemistry','Agentic research systems','AI scientists','Closed-loop frameworks & orchestration','Self-driving lab perspectives']
+ag=c.cluster_name_c.isin(agent)
+print('2023-24 cohort, agent/framework clusters n=',ag.sum(),'median',c.cites[ag].median(),'vs',c.cites[~ag].median(),
+      'one-sided Mann-Whitney (less) p=',round(stats.mannwhitneyu(c.cites[ag],c.cites[~ag],alternative='less').pvalue,3))
 print(c.groupby('cluster_name_c').cites.median().sort_values().tail(3))
 print('years',d.year.min(),d.year.max(), (d.year<2015).sum())
 print('2026 preprint',(d[d.year==2026].type=='preprint').mean(),(d[d.year==2025].type=='preprint').mean(),(d[d.year==2022].type=='preprint').mean(),(d[d.year==2023].type=='preprint').mean())

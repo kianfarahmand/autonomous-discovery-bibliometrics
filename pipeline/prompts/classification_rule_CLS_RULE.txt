@@ -1,0 +1,30 @@
+Classify each bibliographic record on two axes. Judge ONLY what the work itself
+reports, not what it discusses, reviews, or proposes as future work.
+
+AXIS 1 - primary material/application domain. Exactly one code:
+  inorganic = inorganic solids, ceramics, solid-state synthesis
+  organic   = organic synthesis, reaction discovery, medicinal chemistry
+  polymer   = polymers, soft matter, colloids, hydrogels
+  nano      = nanoparticles, nanocrystals, quantum dots, nanotubes
+  bio       = proteins, enzymes, peptides, nucleic acids, synthetic biology, cells
+  catalysis = catalysts and catalytic processes (hetero, electro, photo)
+  battery   = batteries, electrolytes, photovoltaics, fuel cells
+  thinfilm  = thin films, semiconductors, devices, deposition
+  quantum   = quantum or photonic materials and devices, optoelectronics
+  none      = no specific material class: methods, software, agents, reviews, infrastructure
+
+AXIS 2 - highest autonomy stage ACTUALLY IMPLEMENTED in this work. Exactly one code:
+  closed = an algorithm selects the next experiment AND apparatus executes it, iterated in
+           a loop, demonstrated in this work
+  auto   = physical experiments are automated or robotic, but experiment selection is not
+           algorithmic or the loop is not closed
+  alg    = algorithmic experiment selection or design (Bayesian optimisation, active learning)
+           without automated physical execution in this work
+  pred   = computation, prediction, simulation, benchmark, review, perspective, position
+           paper, or software with no physical experiment reported in this work
+
+A review, roadmap, perspective or position paper is ALWAYS stage=pred, whatever it describes.
+
+Reply with ONLY a JSON array, one object per numbered record:
+[{"n":1,"dom":"catalysis","stage":"closed"},...]
+No prose, no code fences.

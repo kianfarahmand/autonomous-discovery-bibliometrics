@@ -1,0 +1,122 @@
+cell,run_utc,language,conda_env,exit_status,chars,assigned_step,first_line
+0,2026-10-05 12:29:03Z,python,_operon,ok,250,09_manuscript_tables_and_session_admin.py,s = host.skills.list()
+1,2026-10-05 12:29:10Z,python,python,ok,144,09_manuscript_tables_and_session_admin.py,a = host.artifacts(limit=100)
+2,2026-10-05 12:38:03Z,python,python,ok,357,09_manuscript_tables_and_session_admin.py,import pandas as pd
+3,2026-10-05 12:43:34Z,python,python,ok,1820,01_retrieval_openalex.py,"import os, requests, json, time, re"
+4,2026-10-05 12:44:19Z,python,python,ok,843,01_retrieval_openalex.py,tests = {
+5,2026-10-05 12:44:59Z,python,python,ok,1620,01_retrieval_openalex.py,def recon_abstract(w):
+6,2026-10-05 12:45:28Z,python,python,ok,1522,01_retrieval_openalex.py,"CAND = [""self-driving laboratory"",""self-driving labs"",""materials acceleration platform"","
+7,2026-10-05 12:45:39Z,python,python,ok,201,01_retrieval_openalex.py,"for doi in [""10.1038/s42256-024-00832-8"", ""10.1038/nature25978""]:"
+8,2026-10-05 12:46:03Z,python,python,ok,927,01_retrieval_openalex.py,"del LANDMARKS[""10.1038/nature25978""]; lm.pop(""10.1038/nature25978"", None)"
+9,2026-10-05 12:46:33Z,python,python,ok,1675,01_retrieval_openalex.py,"LANDMARKS.pop(""10.1038/s41557-023-01214-0"", None); lm.pop(""10.1038/s41557-023-01214-0"", None)"
+10,2026-10-05 12:46:47Z,python,python,ok,274,01_retrieval_openalex.py,import json
+11,2026-10-05 12:47:13Z,python,python,ok,336,01_retrieval_openalex.py,"flatA2 = flatA + [""autonomous molecular discovery""]"
+12,2026-10-05 12:47:35Z,python,python,ok,2275,01_retrieval_openalex.py,"TIER_A[""SF2_autonomous_experimentation""].append(""autonomous molecular discovery"")"
+13,2026-10-05 12:50:01Z,python,python,ok,2789,01_retrieval_openalex.py,"SELECT = (""id,doi,display_name,publication_year,publication_date,cited_by_count,type,"""
+14,2026-10-05 12:51:54Z,python,python,ok,362,01_retrieval_openalex.py,from collections import Counter
+15,2026-10-05 12:52:24Z,python,python,ok,613,01_retrieval_openalex.py,"snow_ids = [r for r, n in cand.items() if n >= 12]"
+16,2026-10-05 12:56:17Z,python,python,ok,2776,02_relevance_screening.py,"RULE = """"""You are screening bibliographic records for a review of AUTONOMOUS SCIENTIFIC DISCOVERY"
+17,2026-10-05 12:56:59Z,python,python,ok,1246,02_relevance_screening.py,"a_ids = [w for w, t in TIERMAP.items() if t == ""A""]"
+18,2026-10-05 12:57:14Z,python,python,ok,348,02_relevance_screening.py,"bad = [r for r in ares if not (isinstance(r, dict) and ""text"" in r)]"
+19,2026-10-05 12:57:35Z,python,python,ok,296,05_precision_audit.py,for w in a_ids: INCL[w] = 1          # Tier A is auto-include by design
+20,2026-10-05 12:58:28Z,python,python,ok,1280,01_retrieval_openalex.py,"BAD_TYPES = {""peer-review"",""editorial"",""erratum"",""paratext"",""retraction"",""letter"",""grant""}"
+21,2026-10-05 12:58:57Z,python,python,ok,573,01_retrieval_openalex.py,"a_keep = [w for w in a_ids if ROWS[w][""type""] not in BAD_TYPES]"
+22,2026-10-05 12:59:34Z,python,_operon,ok,118,09_manuscript_tables_and_session_admin.py,help(host.delegate)
+23,2026-10-05 13:00:05Z,python,_operon,error,2887,02_relevance_screening.py,"RANGES = [(0,478),(478,956),(956,1434),(1434,1912),(1912,2388)]"
+24,2026-10-05 13:00:57Z,python,python,ok,1608,05_precision_audit.py,"LABWORDS = {""lab"",""labs"",""laboratory"",""laboratories""}"
+25,2026-10-05 13:01:22Z,python,python,ok,1735,02_relevance_screening.py,"AUTON = re.compile(r""\b(autonomous|autonomy|self[\s\-]?driv\w*|closed[\s\-]?loop|robot\w*|"""
+26,2026-10-05 13:02:06Z,python,python,ok,1495,02_relevance_screening.py,"GAP = r""[\s\-,:;'\u2019\""()\[\]/]+(?:\w+[\s\-,:;'\u2019\""()\[\]/]+){0,1}"""
+27,2026-10-05 13:02:26Z,python,python,ok,748,01_retrieval_openalex.py,rec = corpus[corpus.year>=2023]
+28,2026-10-05 13:02:45Z,python,python,ok,648,01_retrieval_openalex.py,"z = corpus[(corpus.venue.fillna("""").str.startswith(""Zenodo"")) & (corpus.year==2026)]"
+29,2026-10-05 13:03:13Z,python,python,ok,1202,01_retrieval_openalex.py,"SCHOLARLY = {""article"",""review"",""preprint"",""conference-paper"",""book-chapter""}"
+30,2026-10-05 13:03:45Z,python,python,ok,1550,01_retrieval_openalex.py,"c.drop(columns=[""trank"",""has_doi""]).to_csv(""autonomous_discovery_corpus.csv"", index=False, encoding=""utf-8"")"
+31,2026-10-05 13:05:32Z,python,python,ok,822,01_retrieval_openalex.py,import inspect
+32,2026-10-05 13:08:16Z,python,python,ok,1168,01_retrieval_openalex.py,"dois = [d.replace(""https://doi.org/"","""") for d in sem.doi.tolist()]"
+33,2026-10-05 13:08:38Z,python,python,ok,1086,01_retrieval_openalex.py,"sw = sem2[[""title"",""first_author"",""cr_authors"",""year"",""cr_year"",""venue"",""cr_journal"",""type"","
+34,2026-10-05 13:10:16Z,python,python,ok,662,01_retrieval_openalex.py,short_ids = c.oa_short.tolist()
+35,2026-10-05 13:10:38Z,python,python,ok,1643,01_retrieval_openalex.py,"c[""has_company""]  = c.id.map(lambda w: any(t==""company""    for _,t,_ in INST.get(w,[])))"
+36,2026-10-05 13:13:17Z,python,python,ok,3452,07_figures.py,"import matplotlib as mpl, matplotlib.pyplot as plt"
+37,2026-10-05 13:14:01Z,python,python,ok,852,07_figures.py,"print(""COMPUTER SCIENCE share by year:"")"
+38,2026-10-05 13:14:39Z,python,python,ok,3272,07_figures.py,"fig, axes = plt.subplots(2, 2, figsize=(7.2, 6.3))"
+39,2026-10-05 13:15:02Z,python,python,ok,596,06_analysis_clustering_network_stats.py,"fsdf.to_csv(""field_structure.csv"", index=False)"
+40,2026-10-05 13:26:51Z,python,python,ok,1082,06_analysis_clustering_network_stats.py,from sklearn.feature_extraction.text import TfidfVectorizer
+41,2026-10-05 13:27:14Z,python,python,ok,587,06_analysis_clustering_network_stats.py,K = 18
+42,2026-10-05 13:27:56Z,python,python,ok,1728,09_manuscript_tables_and_session_admin.py,CL_NAMES = {
+43,2026-10-05 13:28:49Z,python,python,ok,1871,06_analysis_clustering_network_stats.py,from sklearn.manifold import TSNE
+44,2026-10-05 13:29:36Z,python,python,ok,2754,07_figures.py,"FCOL = {""Platforms & self-driving labs"":""#1f4e79"",""Closed-loop experimentation"":""#018571"","
+45,2026-10-05 13:30:21Z,python,python,ok,2937,07_figures.py,"SHORT = {10:""Adaptive design (BO, active learning)"",2:""AI-for-science overviews"","
+46,2026-10-05 13:31:44Z,python,python,ok,2807,06_analysis_clustering_network_stats.py,import networkx as nx
+47,2026-10-05 13:32:29Z,python,python,ok,3556,06_analysis_clustering_network_stats.py,"plat = plat[plat.platform != ""Ada (SDL)""].copy()"
+48,2026-10-05 13:33:14Z,python,python,ok,2947,07_figures.py,"OFF = {""University of Toronto"":(0.0,-0.105),""Lawrence Berkeley National Laboratory"":(-0.03,0.085),"
+49,2026-10-05 13:35:06Z,python,python,ok,2667,04_regex_stage_classification.py,"T = (core.title.fillna("""") + "" "" + core.abstract.fillna("""")).str.lower()"
+50,2026-10-05 13:35:45Z,python,python,ok,979,06_analysis_clustering_network_stats.py,"CD = pd.DataFrame(0, index=[SHORT[k] for k in cst.sort_values(""n"",ascending=False).cl],"
+51,2026-10-05 13:36:43Z,python,python,ok,4699,06_analysis_clustering_network_stats.py,VERDICT = {
+52,2026-10-05 13:37:20Z,python,python,ok,2243,07_figures.py,"GEN = {(r.subfield, r.domain) for _, r in gaps_out[gaps_out.verdict==""GENUINE""].iterrows()}"
+53,2026-10-05 13:37:59Z,python,python,ok,2066,07_figures.py,"fig = plt.figure(figsize=(7.5, 5.0))"
+54,2026-10-05 13:39:41Z,python,python,ok,950,09_manuscript_tables_and_session_admin.py,"print(sw[[""crossref_authors"",""crossref_year"",""doi""]].head(4).to_string())"
+55,2026-10-05 13:40:11Z,python,python,ok,346,09_manuscript_tables_and_session_admin.py,"sw[""sur""] = sw.crossref_authors.fillna("""").map("
+56,2026-10-05 13:41:20Z,diff,,ok,4980,manuscript_edit (diff),# [edit_file] created [local workspace path removed]
+57,2026-10-05 13:55:00Z,diff,,ok,20932,manuscript_edit (diff),# [edit_file] created [local workspace path removed]
+58,2026-10-05 13:55:35Z,diff,,ok,876,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+59,2026-10-05 13:56:03Z,python,python,ok,1166,09_manuscript_tables_and_session_admin.py,"draft = open(""autonomous_discovery_review.md"", encoding=""utf-8"").read()"
+60,2026-10-05 13:56:41Z,python,python,ok,1267,09_manuscript_tables_and_session_admin.py,t = draft
+61,2026-10-05 13:57:04Z,python,python,ok,146,09_manuscript_tables_and_session_admin.py,"for p in t.split(""\n\n""):"
+62,2026-10-05 13:57:45Z,python,python,ok,2495,09_manuscript_tables_and_session_admin.py,"FIGART = {""34d2a78a-e980-4919-b78f-34f0f173d824"":""fig:growth"","
+63,2026-10-05 13:58:12Z,python,python,ok,143,09_manuscript_tables_and_session_admin.py,"for m in re.findall(r""\\includegraphics.*"", tex): print(repr(m))"
+64,2026-10-05 13:58:54Z,diff,,ok,4839,manuscript_edit (diff),# [edit_file] created [local workspace path removed]
+65,2026-10-05 14:00:32Z,python,_operon,ok,29,09_manuscript_tables_and_session_admin.py,f = host.findings()
+66,2026-10-05 15:41:40Z,python,_operon,ok,120,09_manuscript_tables_and_session_admin.py,caps = host.capabilities()
+67,2026-10-05 15:41:40Z,python,python,ok,371,09_manuscript_tables_and_session_admin.py,"have = {k: (k in dir()) for k in [""ROWS"",""INCL"",""TIERMAP"",""c"",""core"",""a_keep"",""RULE"",""cst"",""CD"",""M"",""sw"",""labels"",""samp"""
+68,2026-10-05 16:58:26Z,python,_operon,error,2895,02_relevance_screening.py,"RANGES = [(0,478),(478,956),(956,1434),(1434,1912),(1912,2388)]"
+69,2026-10-05 17:00:34Z,python,python,ok,1432,01_retrieval_openalex.py,"import os, re, json, time, requests, numpy as np, pandas as pd"
+70,2026-10-05 17:01:53Z,python,python,ok,142,02_relevance_screening.py,"r = host.llm(""Reply with exactly: OK"", max_tokens=8)"
+71,2026-10-05 17:03:54Z,python,python,ok,1270,02_relevance_screening.py,"RULE = open(""{{artifact:e8021682-743b-4994-ad56-cd9268cf437d}}"", encoding=""utf-8"").read()"
+72,2026-10-05 17:05:39Z,python,python,ok,2830,01_retrieval_openalex.py,"SELECT = (""id,doi,display_name,publication_year,publication_date,cited_by_count,type,"""
+73,2026-10-05 17:06:25Z,python,python,ok,1753,01_retrieval_openalex.py,"SCHOLARLY = {""article"",""review"",""preprint"",""conference-paper"",""book-chapter""}"
+74,2026-10-05 17:07:05Z,python,python,ok,222,05_precision_audit.py,rng = np.random.default_rng(7)
+75,2026-10-05 17:10:34Z,python,python,ok,2440,06_analysis_clustering_network_stats.py,from sklearn.feature_extraction.text import TfidfVectorizer
+76,2026-10-05 17:14:49Z,python,python,ok,2845,06_analysis_clustering_network_stats.py,import networkx as nx
+77,2026-10-05 17:15:42Z,python,python,ok,3099,04_regex_stage_classification.py,DOMAIN = {
+78,2026-10-05 17:16:22Z,python,python,ok,761,06_analysis_clustering_network_stats.py,print(CD2.to_string())
+79,2026-10-05 17:17:13Z,python,python,ok,590,06_analysis_clustering_network_stats.py,"print(cst2[[""cl"",""cluster_name"",""n"",""med_year"",""med_cites"",""share_2023on""]]"
+80,2026-10-05 17:18:19Z,python,python,ok,3760,07_figures.py,apply_figure_style()
+81,2026-10-05 17:19:13Z,python,python,ok,2730,07_figures.py,"print(""CS share by year:"", (mx2[""Computer Science""]*100).round(1).to_dict())"
+82,2026-10-05 17:20:06Z,python,python,ok,2211,07_figures.py,"axc.set_title(""Materials science and engineering dominate;\ncomputer science rising since 2022"")"
+83,2026-10-05 17:21:15Z,python,python,ok,4534,07_figures.py,"PLATFORMS = {""A-Lab"":r""\ba-?lab\b"",""Chemputer"":r""chemputer"",""ChemOS"":r""chemos"","
+84,2026-10-05 17:22:24Z,python,python,ok,2881,07_figures.py,def shortname(n):
+85,2026-10-05 17:23:41Z,python,python,ok,2796,07_figures.py,"SHORTI.update({""Tsinghua University"":""Tsinghua"",""University of Tokyo"":""Tokyo"","
+86,2026-10-05 17:25:13Z,python,python,ok,5636,07_figures.py,VER2 = {
+87,2026-10-05 17:29:02Z,python,python,ok,2410,01_retrieval_openalex.py,"out = c2.drop(columns=[x for x in (""tnorm"",""trank"",""has_doi"") if x in c2.columns])"
+88,2026-10-05 17:31:04Z,diff,,ok,18227,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+89,2026-10-05 17:32:10Z,python,python,error,2723,09_manuscript_tables_and_session_admin.py,"t = open(""autonomous_discovery_review.md"", encoding=""utf-8"").read()"
+90,2026-10-05 17:33:17Z,python,python,ok,2584,09_manuscript_tables_and_session_admin.py,"paras = t.split(""\n\n""); outp = []"
+91,2026-10-05 17:34:15Z,diff,,ok,2349,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+92,2026-10-05 17:35:05Z,diff,,ok,974,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+93,2026-10-05 17:36:02Z,diff,,ok,838,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+94,2026-10-05 17:36:59Z,diff,,ok,1504,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+95,2026-10-05 17:37:55Z,diff,,ok,606,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+96,2026-10-05 17:38:46Z,diff,,ok,599,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+97,2026-10-05 17:49:16Z,python,_operon,ok,7555,09_manuscript_tables_and_session_admin.py,KERNEL = '''import json
+98,2026-10-05 18:07:10Z,python,_operon,ok,7815,09_manuscript_tables_and_session_admin.py,SKILL = '''---
+99,2026-10-05 18:23:02Z,python,_operon,ok,56,09_manuscript_tables_and_session_admin.py,"print(host.skills.publish(""bibliometric-field-corpus""))"
+100,2026-10-05 18:38:35Z,python,python,ok,1123,09_manuscript_tables_and_session_admin.py,"md = open(""autonomous_discovery_review.md"", encoding=""utf-8"").read()"
+101,2026-10-05 18:46:14Z,python,python,ok,3367,03_domain_stage_llm_classification.py,"CLS_RULE = """"""Classify each bibliographic record on two axes. Judge ONLY what the work itself"
+102,2026-10-05 18:47:57Z,python,python,ok,1780,06_analysis_clustering_network_stats.py,from sklearn.metrics import adjusted_rand_score
+103,2026-10-05 19:06:43Z,python,python,ok,1154,06_analysis_clustering_network_stats.py,from scipy.stats import spearmanr
+104,2026-10-05 19:08:05Z,python,python,ok,1124,06_analysis_clustering_network_stats.py,"coh = c2[c2.year.isin([2023,2024])].copy()"
+105,2026-10-05 19:09:16Z,python,python,ok,2006,06_analysis_clustering_network_stats.py,"cst3 = (c2.groupby([""cl"",""cluster_name"",""family""])"
+106,2026-10-05 19:11:50Z,python,python,ok,4359,07_figures.py,"SH3 = {v: SH2.get(k, v) for k, v in CL2.items()}"
+107,2026-10-05 19:17:30Z,python,python,ok,1392,07_figures.py,"axc.set_title(""Biology automates most and closes least;\nquantum and photonic materials the reverse"")"
+108,2026-10-05 19:22:08Z,diff,,ok,17629,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+109,2026-10-05 19:24:02Z,python,python,ok,4609,09_manuscript_tables_and_session_admin.py,"md = open(""autonomous_discovery_review.md"", encoding=""utf-8"").read()"
+110,2026-10-05 19:25:29Z,diff,,ok,2027,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+111,2026-10-06 07:10:06Z,python,python,error,506,06_analysis_clustering_network_stats.py,"print(""state:"", {k: (k in globals()) for k in [""c2"",""sw"",""sw2"",""M3"",""cst3"",""DOM"",""STG"",""inst2"",""ctry2"",""btw2"",""plat2""]})"
+112,2026-10-06 07:14:08Z,python,python,ok,988,09_manuscript_tables_and_session_admin.py,"import pandas as pd, numpy as np, re, json"
+113,2026-10-06 07:22:24Z,diff,,ok,22418,manuscript_edit (diff),# [edit_file] [local workspace path removed]
+114,2026-10-06 07:24:08Z,python,python,ok,1225,09_manuscript_tables_and_session_admin.py,"md = open(""autonomous_discovery_review.md"", encoding=""utf-8"").read()"
+115,2026-10-06 07:25:23Z,python,python,ok,4644,09_manuscript_tables_and_session_admin.py,"nat = nat.replace("" et al.. "", "" et al. "").replace("".. "", "". "")"
+116,2026-10-06 07:26:15Z,python,python,ok,333,09_manuscript_tables_and_session_admin.py,print(tex[:620])
+117,2026-10-06 07:27:18Z,python,python,ok,4450,09_manuscript_tables_and_session_admin.py,"tex = tex.replace(""et al.. "", ""et al. "").replace("".. "", "". "")"
+118,2026-10-06 10:00:45Z,python,python,ok,793,09_manuscript_tables_and_session_admin.py,"import os, re"
+119,2026-10-06 10:31:03Z,python,python,ok,5976,09_manuscript_tables_and_session_admin.py,import pandas as pd
+120,2026-10-06 10:31:48Z,python,python,ok,295,09_manuscript_tables_and_session_admin.py,"doc = open(""presubmission_enquiry_NCS.md"", encoding=""utf-8"").read()"

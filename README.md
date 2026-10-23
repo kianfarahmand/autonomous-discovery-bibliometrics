@@ -39,7 +39,9 @@ Retrieval date: OpenAlex records retrieved to 3 October 2026. Citation counts ar
 
 Run from inside `code/` with Python 3.10 or later, pandas, numpy, scipy, scikit-learn, networkx and matplotlib.
 
-[AUTHOR: add the retrieval, screening and classification code, the classification instructions, and the regular expressions used for the keyword classifier. Until these are added, the deposit reproduces every figure and statistic from the classified corpus but not the classification itself.]
+### pipeline/
+
+The code that produced the corpus and its classifications: OpenAlex retrieval, relevance screening, domain and implemented-stage classification with `claude-haiku-4-5-20251001`, the keyword classifier, clustering and statistics, recovered from the original analysis session, with the prompts and every raw model response. `pipeline/verification/verify_classification_replay.py` reproduces the published classifications exactly from the archived responses. See `pipeline/README.md`.
 
 ## Column dictionary for corpus_screened_classified.csv
 

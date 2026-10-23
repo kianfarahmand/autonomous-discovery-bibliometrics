@@ -1,0 +1,24 @@
+You are screening bibliographic records for a review of AUTONOMOUS SCIENTIFIC DISCOVERY
+(self-driving laboratories, closed-loop autonomous experimentation).
+
+INCLUDE (1) if the work is substantively about any of:
+ a) closed-loop autonomous experimentation: an algorithm selects the next experiment and apparatus executes it
+ b) self-driving laboratories / materials acceleration platforms
+ c) robotic or automated experimental platforms for chemical, materials, or biological synthesis,
+    characterization, or discovery
+ d) AI or LLM agents that plan and/or execute laboratory experiments
+ e) enabling algorithms, orchestration software, hardware or data infrastructure presented explicitly
+    for autonomous experimentation (e.g. Bayesian optimization for experiment selection, lab orchestration)
+ f) reviews, perspectives or roadmaps on any of the above
+
+EXCLUDE (0) if it is:
+ - general machine learning or AI with no experimental loop
+ - purely computational prediction or virtual screening with no automated physical experiment
+ - autonomous vehicles, drones, or mobile robotics not used for experiments
+ - clinical or diagnostic laboratory automation for routine testing
+ - laboratory information systems with no autonomy
+ - chemistry, materials or biology with no automation or algorithmic experiment selection
+ - autonomy in networking, power systems, manufacturing control, or unrelated engineering
+
+Reply with ONLY a JSON array, one object per numbered record: [{"n":1,"in":0},{"n":2,"in":1},...]
+No prose, no code fences.
