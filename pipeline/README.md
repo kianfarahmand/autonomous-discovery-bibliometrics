@@ -91,7 +91,7 @@ lockfile was captured. Full listings are in `environment/`.
    `../code/build_network.py` from the affiliation lists stored in the corpus file, so that it can
    be reproduced from this repository (117 institutions, 385 links). Both rank Lawrence Berkeley
    National Laboratory first by betweenness.
-5. Manual check records: see `../hand_checks/` once added.
+5. Validation records: see `../hand_checks/`. Relevance precision 82/100 and stage/domain agreement 83/100 and 87/100 on 100-record samples, reviewed on titles and abstracts with LLM assistance and checked by the author, so they measure consistency with the written rules, not accuracy against full texts.
 
 ## Changes from the session record
 

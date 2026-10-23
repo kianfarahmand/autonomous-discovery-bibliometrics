@@ -1,0 +1,101 @@
+id,doi,stage_llm,dom_llm
+https://openalex.org/W7138944805,https://doi.org/10.5281/zenodo.18217596,Prediction / review only,No material class named
+https://openalex.org/W7153292058,https://doi.org/10.1021/acsnano.5c20552,Closed loop,Catalysis
+https://openalex.org/W4417104313,https://doi.org/10.48550/arxiv.2510.11661,Prediction / review only,No material class named
+https://openalex.org/W7208778332,https://doi.org/10.5281/zenodo.22299439,Prediction / review only,No material class named
+https://openalex.org/W4413925056,https://doi.org/10.1109/icra55743.2025.11128567,Automated execution,Biomolecules & proteins
+https://openalex.org/W4401129003,https://doi.org/10.26434/chemrxiv-2024-31fl1,Automated execution,No material class named
+https://openalex.org/W7135223583,https://doi.org/10.48550/arxiv.2603.11987,Prediction / review only,No material class named
+https://openalex.org/W4362679567,https://doi.org/10.48550/arxiv.2304.02484,Algorithmic selection only,No material class named
+https://openalex.org/W4409349500,https://doi.org/10.48550/arxiv.2503.22444,Prediction / review only,No material class named
+https://openalex.org/W7161547522,https://doi.org/10.26434/chemrxiv.15003459/v1,Prediction / review only,No material class named
+https://openalex.org/W7206206659,https://doi.org/10.48550/arxiv.2609.00365,Prediction / review only,No material class named
+https://openalex.org/W4413210988,https://doi.org/10.1007/978-3-031-95130-5_19,Prediction / review only,Organic synthesis & reactions
+https://openalex.org/W7168418921,https://doi.org/10.1016/j.matdes.2026.116585,Algorithmic selection only,Inorganic solids & ceramics
+https://openalex.org/W7107882416,https://doi.org/10.5281/zenodo.17729292,Prediction / review only,No material class named
+https://openalex.org/W4417095246,https://doi.org/10.1038/s41524-026-02136-4,Algorithmic selection only,No material class named
+https://openalex.org/W2132402242,https://doi.org/10.1039/b711412e,Closed loop,Nanomaterials
+https://openalex.org/W7123254646,https://doi.org/10.3929/ethz-c-000792087,Closed loop,No material class named
+https://openalex.org/W4388453243,https://doi.org/10.1039/d3dd00142c,Prediction / review only,No material class named
+https://openalex.org/W7140173398,https://doi.org/10.1016/j.drudis.2026.104650,Prediction / review only,No material class named
+https://openalex.org/W3172457552,https://doi.org/10.1063/5.0048164,Prediction / review only,No material class named
+https://openalex.org/W7203678919,https://doi.org/10.2174/0129503752469903260723075500,Prediction / review only,No material class named
+https://openalex.org/W1792409546,https://doi.org/10.1007/978-3-642-13523-1_24,Automated execution,Biomolecules & proteins
+https://openalex.org/W4413306021,https://doi.org/10.1039/d5dd00151j,Prediction / review only,No material class named
+https://openalex.org/W7211937548,https://doi.org/10.68159/s759761095,Prediction / review only,No material class named
+https://openalex.org/W4413445601,https://doi.org/10.2139/ssrn.5393137,Prediction / review only,No material class named
+https://openalex.org/W7212696404,https://doi.org/10.5281/zenodo.22755353,Prediction / review only,No material class named
+https://openalex.org/W7136040906,https://doi.org/10.6084/m9.figshare.4601002,Algorithmic selection only,Biomolecules & proteins
+https://openalex.org/W7170858112,https://doi.org/10.13140/rg.2.2.27446.05440,Prediction / review only,No material class named
+https://openalex.org/W3215311677,https://doi.org/10.1002/aenm.202102698,Prediction / review only,Batteries & energy
+https://openalex.org/W4414004885,https://doi.org/10.1039/d5dd00157a,Automated execution,No material class named
+https://openalex.org/W7219956905,,Prediction / review only,No material class named
+https://openalex.org/W2899261262,https://doi.org/10.1002/anie.201810384,Closed loop,Polymers & soft matter
+https://openalex.org/W7169861758,https://doi.org/10.3390/data11070180,Prediction / review only,No material class named
+https://openalex.org/W4310088401,https://doi.org/10.5281/zenodo.7369997,Closed loop,No material class named
+https://openalex.org/W7214091768,https://doi.org/10.1039/d6nr02314b,Automated execution,Nanomaterials
+https://openalex.org/W4386563364,https://doi.org/10.26434/chemrxiv-2023-6z9mq,Prediction / review only,No material class named
+https://openalex.org/W4415658611,https://doi.org/10.1063/10.0039813,Prediction / review only,No material class named
+https://openalex.org/W4385064779,https://doi.org/10.1371/journal.pone.0287739,Automated execution,Biomolecules & proteins
+https://openalex.org/W7204786929,https://doi.org/10.3390/en19174050,Closed loop,Batteries & energy
+https://openalex.org/W4392487712,https://doi.org/10.48550/arxiv.2403.01332,Prediction / review only,Biomolecules & proteins
+https://openalex.org/W2006076813,https://doi.org/10.1021/op0341972,Automated execution,Organic synthesis & reactions
+https://openalex.org/W4391215091,https://doi.org/10.1126/science.adj1817,Closed loop,Catalysis
+https://openalex.org/W7117981194,https://doi.org/10.48550/arxiv.2512.23880,Prediction / review only,No material class named
+https://openalex.org/W7108324451,https://doi.org/10.17638/03195319,Automated execution,Inorganic solids & ceramics
+https://openalex.org/W7214242201,https://doi.org/10.1016/j.rineng.2026.113180,Prediction / review only,No material class named
+https://openalex.org/W7130356745,https://doi.org/10.1021/acscentsci.5c01624,Prediction / review only,No material class named
+https://openalex.org/W7204467248,https://doi.org/10.1016/j.slast.2026.100463,Prediction / review only,No material class named
+https://openalex.org/W7161690425,https://doi.org/10.48550/arxiv.2605.18033,Closed loop,Inorganic solids & ceramics
+https://openalex.org/W7134059863,https://doi.org/10.1038/s41524-026-02005-0,Prediction / review only,No material class named
+https://openalex.org/W4402040550,https://doi.org/10.1109/dsn58291.2024.00043,Prediction / review only,No material class named
+https://openalex.org/W7137035308,https://doi.org/10.48550/arxiv.2603.12618,Algorithmic selection only,No material class named
+https://openalex.org/W7214328384,https://doi.org/10.64898/2026.09.19.752921,Closed loop,Organic synthesis & reactions
+https://openalex.org/W7203823381,https://doi.org/10.66132/mr2103,Prediction / review only,No material class named
+https://openalex.org/W4384078753,https://doi.org/10.1039/d3ce00386h,Automated execution,Inorganic solids & ceramics
+https://openalex.org/W4308245573,https://doi.org/10.1557/s43579-022-00288-0,Prediction / review only,No material class named
+https://openalex.org/W4388825410,https://doi.org/10.1021/acssynbio.3c00397,Automated execution,No material class named
+https://openalex.org/W7171468500,https://doi.org/10.1039/9781837072163-00085,Prediction / review only,No material class named
+https://openalex.org/W1999448229,https://doi.org/10.1073/pnas.94.2.412,Automated execution,Biomolecules & proteins
+https://openalex.org/W7168406503,https://doi.org/10.15302/frontphys.2026.071401,Prediction / review only,No material class named
+https://openalex.org/W3207989147,https://doi.org/10.1002/adbi.202101063,Automated execution,Biomolecules & proteins
+https://openalex.org/W4401364952,https://doi.org/10.1039/d4mh00797b,Closed loop,Polymers & soft matter
+https://openalex.org/W2964525681,https://doi.org/10.1039/c9re00209j,Prediction / review only,No material class named
+https://openalex.org/W4405599065,https://doi.org/10.1002/adma.202413523,Prediction / review only,No material class named
+https://openalex.org/W2756524872,,Automated execution,Biomolecules & proteins
+https://openalex.org/W7131476327,https://doi.org/10.1002/advs.77008,Automated execution,Polymers & soft matter
+https://openalex.org/W7168259598,https://doi.org/10.26434/chemrxiv.15006080/v1,Algorithmic selection only,Organic synthesis & reactions
+https://openalex.org/W7202372866,https://doi.org/10.48550/arxiv.2608.11216,Prediction / review only,No material class named
+https://openalex.org/W2069822265,https://doi.org/10.1021/nl100669s,Automated execution,Nanomaterials
+https://openalex.org/W7127893411,https://doi.org/10.1063/5.0311536,Prediction / review only,No material class named
+https://openalex.org/W2809157146,https://doi.org/10.1126/scirobotics.aat5559,Prediction / review only,No material class named
+https://openalex.org/W4412785809,https://doi.org/10.1038/s41598-025-10672-0,Prediction / review only,No material class named
+https://openalex.org/W7211945289,https://doi.org/10.68159/h935604128,Prediction / review only,No material class named
+https://openalex.org/W7117994819,https://doi.org/10.64060/978-627-7898-01-4-9,Prediction / review only,No material class named
+https://openalex.org/W188877260,,Automated execution,No material class named
+https://openalex.org/W4411887054,https://doi.org/10.1038/s41467-025-61209-y,Closed loop,Biomolecules & proteins
+https://openalex.org/W4416156409,https://doi.org/10.48550/arxiv.2511.05524,Prediction / review only,No material class named
+https://openalex.org/W4386447350,https://doi.org/10.1021/acsmaterialslett.3c00350,Closed loop,Batteries & energy
+https://openalex.org/W4414475428,https://doi.org/10.1016/j.patter.2025.101372,Algorithmic selection only,Quantum & photonic
+https://openalex.org/W7153196226,https://doi.org/10.48550/arxiv.2604.07416,Prediction / review only,No material class named
+https://openalex.org/W7203889676,https://doi.org/10.1016/j.mtchem.2026.103934,Closed loop,Nanomaterials
+https://openalex.org/W7154489826,https://doi.org/10.48550/arxiv.2604.12144,Prediction / review only,Biomolecules & proteins
+https://openalex.org/W7212027266,https://doi.org/10.48550/arxiv.2609.08844,Prediction / review only,No material class named
+https://openalex.org/W7154499347,https://doi.org/10.48550/arxiv.2604.11957,Closed loop,Inorganic solids & ceramics
+https://openalex.org/W3113609262,,Prediction / review only,No material class named
+https://openalex.org/W7211914410,https://doi.org/10.48550/arxiv.2609.04564,Closed loop,No material class named
+https://openalex.org/W7214093183,https://doi.org/10.48550/arxiv.2609.26661,Closed loop,Thin films & devices
+https://openalex.org/W7162206319,https://doi.org/10.5281/zenodo.20359869,Prediction / review only,No material class named
+https://openalex.org/W7154257979,https://doi.org/10.1038/s41586-026-10482-y,Closed loop,Quantum & photonic
+https://openalex.org/W3114025188,https://doi.org/10.1038/s41557-020-00596-9,Automated execution,Organic synthesis & reactions
+https://openalex.org/W4407953715,https://doi.org/10.1039/d4dd00115j,Prediction / review only,No material class named
+https://openalex.org/W7203622340,https://doi.org/10.1021/acsnano.6c03268,Closed loop,Inorganic solids & ceramics
+https://openalex.org/W7170095250,https://doi.org/10.1016/j.aichem.2026.100129,Prediction / review only,No material class named
+https://openalex.org/W7131079302,https://doi.org/10.26434/chemrxiv.15000295/v1,Closed loop,Organic synthesis & reactions
+https://openalex.org/W4316923841,https://doi.org/10.1007/978-3-031-23606-8_11,Prediction / review only,No material class named
+https://openalex.org/W4388657873,https://doi.org/10.1088/1742-6596/2632/1/012002,Automated execution,No material class named
+https://openalex.org/W3215361137,https://doi.org/10.48550/arxiv.2112.00600,Algorithmic selection only,No material class named
+https://openalex.org/W7214038735,https://doi.org/10.48550/arxiv.2609.22411,Automated execution,No material class named
+https://openalex.org/W7134256553,https://doi.org/10.26434/chemrxiv.15000705/v1,Closed loop,Organic synthesis & reactions
+https://openalex.org/W7204629270,https://doi.org/10.1002/ange.3008697,Algorithmic selection only,Polymers & soft matter
+https://openalex.org/W4415300687,https://doi.org/10.1038/s44286-025-00291-x,Prediction / review only,Nanomaterials
