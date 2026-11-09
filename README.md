@@ -1,6 +1,6 @@
-# Data and code: Implemented versus discussed autonomy
+# Data and code: When words outrun practice
 
-Supporting data and code for: Farahmand, K. "Implemented versus discussed autonomy: A screened bibliometric analysis of the autonomous scientific discovery literature." Submitted to *Quantitative Science Studies*.
+Supporting data and code for: Farahmand, K. "When words outrun practice: Measuring autonomous scientific discovery beyond keyword counts." Manuscript under review. An earlier version of the manuscript was titled "Implemented versus discussed autonomy", and the Zenodo deposit keeps that title.
 
 Author: Kian Farahmand, Department of Materials Science and Engineering, Shiraz University, Shiraz, Iran (k3farahmand@gmail.com)
 
